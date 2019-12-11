@@ -26,4 +26,5 @@ function showTime(){
     
 }
 
+//Make sure the <script/> link tag is placed after the div - otherwise the function, showTime(), will not find the <div/>
 showTime();
